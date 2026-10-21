@@ -1,6 +1,28 @@
 {
   "schemaVersion": 1,
   "sourceLocale": "ko",
-  "categories": [],
-  "tags": []
+  "categories": [
+    {
+      "id": "category-da2f073e06f78938166f2472",
+      "source": "crypto",
+      "labels": {
+        "en": "Crypto",
+        "ko": "암호화폐",
+        "ja": "crypto"
+      },
+      "aliases": []
+    }
+  ],
+  "tags": [
+    {
+      "id": "tag-b3a1984ba0b1d8ad7f9dc881",
+      "source": "coin",
+      "labels": {
+        "en": "coin",
+        "ko": "코인",
+        "ja": "コイン"
+      },
+      "aliases": []
+    }
+  ]
 }
