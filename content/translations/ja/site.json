@@ -1,0 +1,11 @@
+{
+  "tagline": "GitHubリポジトリから、執筆、翻訳、公開を行えます。",
+  "description": "GitBlog を使えば、GitHub リポジトリを多言語ブログに変えることができます。Markdown で記事を書き、GitHub Pages で公開し、GitBlog を通じて記事を共有しましょう。",
+  "footer": "Gitblogで動作しています。",
+  "locale": "ja",
+  "sourceHash": "8658fb6ab3de1e490410f00d90bad8fb9ef6c0c6687a8e81a80329665d0efa01",
+  "sourceLocale": "ko",
+  "translationSchemaVersion": "site-copy-v1",
+  "translationSource": "deepl",
+  "translatedAt": "2026-10-21T16:56:18.480Z"
+}
