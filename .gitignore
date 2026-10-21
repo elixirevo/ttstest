@@ -1,0 +1,33 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+/discovery-audit-*.json
+/.gitblog/work/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.production
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Python history runner
+__pycache__/
+*.pyc
+
+.cache/supertonic3/
+**/__pycache__/

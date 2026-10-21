@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"themeApiVersion": 1,
+	"extensionApiVersion": 1,
+	"preserve": [
+		"README.md",
+		".gitblog/user-instructions.md",
+		".gitblog/authoring.json",
+		".gitblog/setup.json",
+		"content",
+		"static",
+		"src/lib/theme",
+		"src/lib/extensions",
+		"src/app.css",
+		"src/app.html",
+		".env.production",
+		".pages.yml"
+	],
+	"mergeOnly": [
+		"AGENTS.md",
+		"src/routes",
+		"package.json",
+		"package-lock.json",
+		"bun.lock",
+		"vite.config.ts",
+		"svelte.config.js",
+		"tsconfig.json",
+		".github/workflows"
+	]
+}
